@@ -60,6 +60,13 @@ Looking at where each cluster sits in the scatter plot and matching it to these 
 
 What stands out just from looking at the plot is that income and spending score don't move together in a simple straight line — high income doesn't automatically mean high spending (clusters 1 and 3 both have high income but opposite spending behavior). That's the main thing this clustering surfaces visually that a simple correlation number wouldn't show.
 
+## Key Business Insights
+
+- Income does not directly correlate with spending behavior.
+- High-income customers can exhibit both high and low spending patterns.
+- Segmentation provides more actionable insights than simple correlation analysis.
+
+
 ## Tech Stack
 Python — pandas, NumPy, matplotlib, seaborn (EDA & visualization), scikit-learn (`KMeans` for clustering)
 
